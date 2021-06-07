@@ -1,0 +1,18 @@
+.section-search{
+	min-height: auto;
+	background: none;
+	padding: 0;
+}
+.banner-wrapper{
+	max-width: 100%;
+}
+.banner-wrapper img{
+	width: 100%;
+}
+.speicality-img img.img-fluid{
+	max-width: 64px;
+}
+.doctor-img img{
+	width: 100%;
+}
+
